@@ -1,16 +1,22 @@
 # Checkpoint-gql
 
-## Installation
+## Usage
+
+Install dependencies
 
 ````
 npm install
 ```
 
-````
-npm run build
-````
+Build project
 
 ````
+npm run build
+```
+
+Start apollo server
+
+```
 npm run start
 ```
 
